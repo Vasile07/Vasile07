@@ -22,11 +22,11 @@ Hi, my ame is Irimies Vasile and i'm student at Universitatea Babes Bolyai - Com
 - ☕ Java
     * Projects with graphic interface using Javafx:
       - [🔗 Local social network](https://github.com/Vasile07/MAP)
-      - [🔗 ]()
+      - [🔗 Swimming Competition client-server application](https://github.com/Vasile07/MPP/tree/master)
 - 💻 C Sharp
     * Windows forms app
-        - [🔗 ]()
-        - [🔗 ]()
+        - [🔗 Application for music streaming database](https://github.com/Vasile07/SGBD)
+        - [🔗 Swimming Competition client-server application](https://github.com/Vasile07/MPP/tree/main/SwimmingCompetitionCSharpGUI)
 - 🛢 SQL
     * [🔗 University semester project](https://github.com/Vasile07/SQL/tree/main/Music%20Streaming%20Service)
     * [🔗 Other problems](https://github.com/Vasile07/SQL/tree/main/Exercices)
