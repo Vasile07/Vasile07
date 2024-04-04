@@ -1,5 +1,5 @@
 # 👋 Introduction
-Hi, my name is Irimies Vasile and i'm studying at Universitatea Babes Bolyai - Computer Science 🖥️
+Hi, my name is Irimies Vasile and i'm studying at Babes Bolyai University - Computer Science 🖥️
 # 🏫University project
 - 🐍 Python
   * 🤖 AI
