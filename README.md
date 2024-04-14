@@ -8,6 +8,7 @@ Hi, my name is Irimies Vasile and i'm studying at Babes Bolyai University - Comp
       - [🔗 Object detection](https://github.com/Vasile07/AI/tree/main/Object%20detection%20-%20Laborator%204)
       - [🔗 Regression using least squares](https://github.com/Vasile07/AI/tree/main/Regresion%20-%20Laborator%205)
       - [🔗 Regression using gradient descend](https://github.com/Vasile07/AI/tree/main/Gradient%20Descrescator%20-%20Laborator%206)
+      - [🔗 ANN && CNN](https://github.com/Vasile07/AI/tree/main/ANN%20%26%20CNN%20-%20Laborator%207)
 - 💻 C++
     * Graphic interface:
         - [🔗 Proiect Cos Cumparaturi(Semester project)](https://github.com/Vasile07/OOP/tree/main/Lab13_14)
