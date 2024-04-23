@@ -9,6 +9,8 @@ Hi, my name is Irimies Vasile and i'm studying at Babes Bolyai University - Comp
       - [🔗 Regression using least squares](https://github.com/Vasile07/AI/tree/main/Regresion%20-%20Laborator%205)
       - [🔗 Regression using gradient descend](https://github.com/Vasile07/AI/tree/main/Gradient%20Descrescator%20-%20Laborator%206)
       - [🔗 ANN && CNN](https://github.com/Vasile07/AI/tree/main/ANN%20%26%20CNN%20-%20Laborator%207)
+      - [🔗 Generative AI - Markov Chain](https://github.com/Vasile07/AI/tree/main/Generative%20AI%20-%20Laborator%208)
+      - [🔗 KMeans](https://github.com/Vasile07/AI/tree/main/Laborator%209)
 - 💻 C++
     * Graphic interface:
         - [🔗 Proiect Cos Cumparaturi(Semester project)](https://github.com/Vasile07/OOP/tree/main/Lab13_14)
