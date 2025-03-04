@@ -1,7 +1,7 @@
 # Introduction
 Hi, my name is Irimies Vasile and i'm studying at Babes Bolyai University - Computer Science 🖥️
 # 🏫University project
-- React
+- ⚛ React
   * [Interactive Web Game for Dyslexic Children to Learn Letters](https://github.com/Vasile07/lexi-learn/tree/master?tab=readme-ov-file)
 - 📱 React-Native
   * Ionic:
