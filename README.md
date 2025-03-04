@@ -3,6 +3,9 @@ Hi, my name is Irimies Vasile and i'm studying at Babes Bolyai University - Comp
 # 🏫University project
 - React
   * [Interactive Web Game for Dyslexic Children to Learn Letters](https://github.com/Vasile07/lexi-learn/tree/master?tab=readme-ov-file)
+- 📱 React-Native
+  * Ionic:
+    - [🔗 Zoo management app](https://github.com/Vasile07/mobile-zoo-app)
 - 🐍 Python
   * 🤖 AI
       - [🔗 Data analysis](https://github.com/Vasile07/AI/tree/main/Data%20analysis%20-%20Laborator2)
