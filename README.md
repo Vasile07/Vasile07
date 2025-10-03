@@ -1,5 +1,8 @@
 # Introduction
-Hi, my name is Irimies Vasile and i'm studying at Babes Bolyai University - Computer Science 🖥️
+Hi, my name is Irimies Vasile 👋  
+I graduated with a Bachelor's degree in Computer Science from Babeș-Bolyai University 🎓🖥️  
+and I'm currently pursuing a Master's in Software Engineering.👨‍💻
+
 # 🎓 Software Engineering Master
 📂 [My Projects](https://github.com/Vasile07/CS-UBB-MASTER-SOFTWARE-ENGINEERING)
 # 🏫University project
