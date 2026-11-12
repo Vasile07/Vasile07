@@ -39,6 +39,12 @@ The project combines an event platform with an AI-orchestrated development works
 
 **Repositories:** [Workspace and AI orchestrator](https://github.com/Vasile07/ubb-events-workspace) · [Frontend](https://github.com/Vasile07/ubb-events-frontend) · [Backend](https://github.com/Vasile07/ubb-events-backend)
 
+### AI-Assisted SLR Workspace
+
+A structured workspace for conducting a team systematic literature review. It includes AI-assisted roles and workflows for paper search, screening, full-text retrieval, and evidence-based data extraction, with team review steps and a spreadsheet-based analysis process.
+
+**Repository:** [CMES SLR Workspace](https://github.com/Vasile07/slr-workspace)
+
 ### More work
 
 - **HRelper:** [Project repository](https://github.com/Vasile07/HRelper) · [Frontend](https://github.com/Vasile07/HRelperFE) · [Backend](https://github.com/Vasile07/HRelperBE)
